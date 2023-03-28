@@ -6,15 +6,15 @@ h1 {
     color: #66BFBF;
     margin: 0 auto 0 auto; 
     font-size: 562.5%;
-    padding-top: 9.3rem;
+    padding-top: 150px;
     font-family: 'Sacramento', cursive
 }
 h2 {
     color:#66BFBF;
     font-weight: normal;
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.5rem;
-    padding-bottom: 0.62rem;
+    font-size: 40px;
+    padding-bottom: 10px;
 }
 h3 {
     color: #11999E;
@@ -45,15 +45,14 @@ hr {
 }
 
 .bottom-cloud {
-    margin-right: 2.5rem;
     position: absolute;
-    left: 15.6rem;
-    bottom: 18.75rem;
+    left: 250px;
+    bottom: 300px;
 }
 .top-cloud {
     position: absolute;
-    right: 15.6rem;
-    top: 2.5rem;
+    right: 250px;
+    top: 40px;
 }
 .profile
 {
@@ -92,29 +91,19 @@ hr {
     color: #40514e;
  }
  .btn {
-    background: #11cdd4;
-    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
-    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
-    -webkit-border-radius: 8;
-    -moz-border-radius: 8;
-    border-radius: 8px;
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
     font-family: Arial;
-    color: #ffffff;
+    color: #e4f9f5;
     font-size: 20px;
+    background: #66bfbf;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
   
   .btn:hover {
-    background: #30e3cb;
-    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    background: #159895;
     text-decoration: none;
   }
 
