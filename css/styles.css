@@ -45,15 +45,14 @@ hr {
 }
 
 .bottom-cloud {
-    width:200px;
+    width: 200px;
     margin: 10px;
     position: absolute;
     left: 250px;
     bottom: 300px;
 }
 .top-cloud {
-    width:200px;
-    margin:10px;
+    width: 200px;
     position: absolute;
     right: 250px;
     top: 40px;
