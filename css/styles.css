@@ -45,13 +45,15 @@ hr {
 }
 
 .bottom-cloud {
+    width: 200px;
     position: absolute;
     left: 250px;
     bottom: 300px;
 }
 .top-cloud {
+    width: 200px;
     position: absolute;
-    right: 300px;
+    right: 250px;
     top: 40px;
 }
 .profile
@@ -145,4 +147,23 @@ hr {
     font-family:'montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
+}
+
+.page
+{ 
+    color:#66BFBF;
+   position: relative;
+   left: 500px;
+
+   
+}
+.page:hover {
+    color: #11999E;
+}
+.mount
+{    
+    position: relative;
+    left: 50px;
+    width: 850px;
+    height: 357px;
 }
