@@ -9,16 +9,47 @@ h1 {
     padding-top: 150px;
     font-family: 'Sacramento', cursive
 }
+h1::selection{
+    color: none;
+    text-decoration: none ;
+}
+.bottom-cloud {
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
 h2 {
     color:#66BFBF;
+    
     font-weight: normal;
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     padding-bottom: 10px;
 }
+h2::selection{
+    color: none;
+    text-decoration: none;
+}
+.high::selection {
+    color: #40514e;
+    text-decoration: none;
+}
+.pro::selection {
+    color: #40514e;
+    text-decoration: none;
+}
 h3 {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
+}
+h3::selection{
+    color: #66BFBF;
+    text-decoration: #BBD6B8;
+}
+p::selection {
+    color: #94AF9F;
+    text-decoration: 94AF9F;
 }
 body {
     margin: 0;
@@ -44,12 +75,7 @@ hr {
     text-decoration: underline;
 }
 
-.bottom-cloud {
-    width: 200px;
-    position: relative;
-    left: 100px;
-    bottom: 250px;
-}
+
 .top-cloud {
     width: 200px;
     position: absolute;
