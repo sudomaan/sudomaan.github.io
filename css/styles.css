@@ -46,10 +46,9 @@ hr {
 
 .bottom-cloud {
     width: 200px;
-    margin: 10px;
-    position: absolute;
-    left: 250px;
-    bottom: 300px;
+    position: relative;
+    left: 100px;
+    bottom: 250px;
 }
 .top-cloud {
     width: 200px;
