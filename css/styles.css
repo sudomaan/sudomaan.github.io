@@ -6,7 +6,7 @@ h1 {
     color: #66BFBF;
     margin: 0 auto 0 auto; 
     font-size: 562.5%;
-    padding-top: 150px;
+    padding-top: 9.3rem;
     font-family: 'Sacramento', cursive
 }
 h2 {
@@ -14,7 +14,7 @@ h2 {
     font-weight: normal;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
-    padding-bottom: 10px;
+    padding-bottom: 0.62rem;
 }
 h3 {
     color: #11999E;
@@ -45,16 +45,16 @@ hr {
 }
 
 .bottom-cloud {
-    width: 200px;
+    width: 12.5rem;
     position: absolute;
-    left: 250px;
-    bottom: 300px;
+    left: 15.6rem;
+    bottom: 18.75rem;
 }
 .top-cloud {
-    width: 200px;
+    width: 12.5rem;
     position: absolute;
-    right: 250px;
-    top: 40px;
+    right: 15.6rem;
+    top: 2.5rem;
 }
 .profile
 {
