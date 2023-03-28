@@ -45,6 +45,7 @@ hr {
 }
 
 .bottom-cloud {
+    padding: 0.625rem;
     position: absolute;
     left: 250px;
     bottom: 300px;
