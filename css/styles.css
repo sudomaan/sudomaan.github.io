@@ -14,9 +14,10 @@ h1::selection{
     text-decoration: none ;
 }
 .bottom-cloud {
+    width: 180px;
     position: absolute;
-    left: 300px;
-    bottom: 250px;
+    left: 8.125rem;
+    bottom: 23.75rem;
 }
 h2 {
     color:#66BFBF;
@@ -76,9 +77,10 @@ hr {
 
 
 .top-cloud {
+    width: 170px;
     position: absolute;
-    right: 250px;
-    top: 40px;
+    right: 100px;
+    top: 90px;
 }
 .profile
 {
