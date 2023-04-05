@@ -191,7 +191,7 @@ hr {
 
 .about-section1 {
     position: relative;
-    left: 380px;
+    left: 340px;
     bottom: 30px;
 }
 
@@ -205,9 +205,15 @@ hr {
     padding-top: 0px;
     margin-top: 0px;
     border-radius: 100%;
-    right: 350px;
+    right: 330px;
     width: 72px;
     height: 72px;
  }
  
- 
+.about-top {
+    background-color: #FFF2CC;
+ }
+
+ .about-middle {
+    background-color: #FFD966;
+ }
