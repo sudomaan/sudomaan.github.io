@@ -210,10 +210,73 @@ hr {
     height: 72px;
  }
  
-.about-top {
-    background-color: #FFF2CC;
+
+ .certify1 {
+    background-color: #E4F9F5;
  }
 
- .about-middle {
-    background-color: #FFD966;
+ .bo-ab {
+    background-color: #E4F9F5;
  }
+
+ .bo-pr {
+    background-color: #E4F9F5;
+ }
+
+ .img-ab {
+    float: left;
+    padding-left: 50px;
+    width: 20%;
+    height: 20%;
+    margin-right: 30px;
+    border-radius: 20%;
+ }
+ 
+ .h-ab {
+    text-align: left;
+    padding-left: 10px;
+ }
+ 
+ .ab-co2 {
+    margin-right: 20px;
+    padding-right: 20px;
+ }
+
+ .pa-ab {
+    margin-top: 20px;
+    color: #040D12;
+    padding-left: 10px;
+    line-height : 1.4;
+    margin: auto;
+    width: 30;
+ }
+ .h1-ab {
+    text-align: left;
+    padding-left: 325px;
+ }
+ .pa1-ab {
+    text-align: left;
+    padding-left: 325px;
+    line-height : 1.4;
+    margin: auto;
+    width: 30;
+    
+ }
+
+ .pa2-ab {
+    text-align: left;
+    padding-left: 325px;
+    line-height : 1.4;
+    margin: auto;
+    width: 30;
+    padding-bottom: 80px;
+    
+ }
+.abhr {
+    margin: 50px auto;
+    border-style: none;
+    border-top-style: dotted ;
+    width: 3%;
+    border-color: #D8D8D8;
+    border-width: 5px;
+}
